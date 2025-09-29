@@ -57,7 +57,7 @@ Autenticação de Usuário:
     Login de usuários existentes (com autenticação JWT).
     Manutenção da sessão de login ao recarregar a página.
 Gerenciamento de Produtos:
-    Cadastro de novos produtos (nome, descrição, preço, quantidade).
+    Cadastro de novos produtos (nome, preço, quantidade).
     Listagem de todos os produtos.
 Gerenciamento de Movimentações:
     Registro de entradas e saídas de produtos no estoque.
@@ -93,3 +93,4 @@ Dashboard: Uma tela inicial com um resumo do estoque.
 ###OBSERVAÇÕES
 
 Projeto feita de forma prática, intuitiva e funcional, afim de testar e melhorar minhas habilidades conforme funcionalidades solicitadas pelo teste técnico, com margem para aprimoramento e aumento da aplicação.
+
